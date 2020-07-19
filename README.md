@@ -26,6 +26,11 @@ https://react-native-community.github.io/async-storage/docs/usage
 API:
 https://react-native-community.github.io/async-storage/docs/api
 
+# exercise:
+
+- use what you learn to save login details (username , password ) in local storage.
+- remove the login details from local storage when the user press on log off button.
+
 # resources
 
 - documentation :
